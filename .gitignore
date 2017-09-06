@@ -1,0 +1,9 @@
+#ignore output directory
+bin
+obj
+.vs
+Visual Studio 2017
+visual studio 2017Projects
+
+#ignore files
+*.config
