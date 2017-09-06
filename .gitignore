@@ -1,6 +1,6 @@
 #ignore output directory
-bin
-obj
+VideoConverter/bin
+VideoConverter/obj
 .vs
 Visual Studio 2017
 visual studio 2017Projects
